@@ -19,7 +19,7 @@ git clone https://github.com/mdramos/fast-style-transfer-coreml.git
 * Fast Style Transfer: https://github.com/lengstrom/fast-style-transfer
 * TensforFlow-CoreML: https://github.com/tf-coreml/tf-coreml
 
-Note that you'll want to make the necessary adjustments for Fast-Style-Transfer and TensorFlow-CoreML. I write about these in my medium article HERE. The adjusments are also available in this repo: [fst](https://github.com/mdramos/fast-style-transfer-coreml/tree/master/fast_style_transfer) and [tf-coreml](https://github.com/tf-coreml/tf-coreml).
+Note that you'll want to make the necessary adjustments for Fast-Style-Transfer and TensorFlow-CoreML. I write about these in [my medium article](https://medium.com/@rambossa/diy-prisma-fast-style-transfer-app-with-coreml-and-tensorflow-817c3b90dacd). The adjusments are also available in this repo: [fst](https://github.com/mdramos/fast-style-transfer-coreml/tree/master/fast_style_transfer) and [tf-coreml](https://github.com/tf-coreml/tf-coreml).
 
 ## Models 
 You can train your own models using FST, and use my adjustments to convert them to CoreML models. I've already converted the pre-trained models from FST:
