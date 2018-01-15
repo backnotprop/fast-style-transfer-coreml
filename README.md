@@ -29,3 +29,8 @@ CoreML Models: https://drive.google.com/drive/folders/1CBSanBHbXC5-bJNTTk3-r1WSq
 ## iOS
 
 Once you have your models, just import them into the Xcode project. The current setup looks for a particular set of models (wave, udnie, rain_princess, and la_muse)
+
+
+## License
+Copyright (c) 2018 Michael Ramos.
+MIT on any of my code, but you'll need to abide by the Licences of the libraries used (FST, tf-coreml)
